@@ -1,2 +1,5 @@
-# ATM-Transaction-Application
-A C++ program to display an ATM transaction for Fundamentals of Programming module (2020/2021) 
+# ATM Transaction Application
+The types of ATM transaction are as follows <br>
+1. Balance checking <br>
+2. Cash withdrawal <br>
+3. Cash deposition <br>
