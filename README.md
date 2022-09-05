@@ -9,6 +9,7 @@ Includes:
 determining close contacts and casual contacts
 <br>
 See Screenshots of all significant output.pdf for how the program works and what it can do.
+
 ![image](https://user-images.githubusercontent.com/104295321/188365588-b4cfcbb5-55f6-4ab8-a882-78b73eb65f8b.png)
 ![image](https://user-images.githubusercontent.com/104295321/188365617-d93961b3-82ae-48bc-9757-9c6cf63c84b2.png)
 ![image](https://user-images.githubusercontent.com/104295321/188365633-bd5eed5d-ba3d-4ecc-a038-e3c95da5b832.png)
