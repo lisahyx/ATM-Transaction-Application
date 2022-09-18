@@ -20,4 +20,4 @@ See Screenshots of all significant output.pdf for how the program works and what
 
 ![image](https://user-images.githubusercontent.com/104295321/188365664-90e2ce3e-e30c-44bc-820e-cd5e1cf30468.png)
 
-https://replit.com/@LisaHo3/Proactive-Social-Distancing-App
+https://replit.com/@LisaHo3/Proactive-Social-Distancing-App?lite=true
